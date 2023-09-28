@@ -1,0 +1,11 @@
+
+.navbar{
+    background-color: blueviolet;
+}
+header .container{
+    max-width: 100%;
+}
+nav.navbar.navbar-expand-lg.navbar-light {
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
